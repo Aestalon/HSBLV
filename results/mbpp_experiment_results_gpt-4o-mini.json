@@ -1,0 +1,1357 @@
+{
+  "no_audit": 0.472,
+  "error_rate": 0.528,
+  "theta_init": [
+    0.35155455977852196,
+    0.29139109888349185,
+    0.3570543413379862
+  ],
+  "budget_ratios": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "noise_std": 0.1,
+  "flip_prob": 0.1,
+  "H_dim": 3,
+  "T0": 50,
+  "results": {
+    "homogeneous": {
+      "0.05": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.4,
+            "error_coverage": 0.0378787878786444,
+            "info_gain": -0.24242424196510562,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.492
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.56,
+            "error_coverage": 0.05303030303010216,
+            "info_gain": 0.06060606049127645,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.5
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.56,
+            "error_coverage": 0.05303030303010216,
+            "info_gain": 0.06060606049127645,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.5
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.52,
+            "error_coverage": 0.04924242424223772,
+            "info_gain": -0.015151515122819113,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.498
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.52,
+            "error_coverage": 0.04924242424223772,
+            "info_gain": -0.015151515122819113,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.498
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.68,
+            "error_coverage": 0.06439393939369548,
+            "info_gain": 0.2878787873335629,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.506
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.48,
+            "error_coverage": 0.04545454545437328,
+            "info_gain": -0.09090909073691468,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.496
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.48,
+            "error_coverage": 0.04545454545437328,
+            "info_gain": -0.09090909073691468,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.496
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.094696969696611,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.522
+        }
+      },
+      "0.1": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.48,
+            "error_coverage": 0.09090909090874656,
+            "info_gain": -0.09090909073691468,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.52
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.48,
+            "error_coverage": 0.09090909090874656,
+            "info_gain": -0.09090909073691468,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.52
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.48,
+            "error_coverage": 0.09090909090874656,
+            "info_gain": -0.09090909073691468,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.52
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.5,
+            "error_coverage": 0.094696969696611,
+            "info_gain": -0.0530303029298669,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.522
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.48,
+            "error_coverage": 0.09090909090874656,
+            "info_gain": -0.09090909073691468,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.52
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.62,
+            "error_coverage": 0.11742424242379763,
+            "info_gain": 0.1742424239124196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.534
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.54,
+            "error_coverage": 0.10227272727233988,
+            "info_gain": 0.02272727268422867,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.526
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.56,
+            "error_coverage": 0.10606060606020432,
+            "info_gain": 0.06060606049127645,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.528
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.189393939393222,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.572
+        }
+      },
+      "0.15": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5333333333333333,
+            "error_coverage": 0.1515151515145776,
+            "info_gain": 0.010101010081879339,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.552
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5866666666666667,
+            "error_coverage": 0.16666666666603536,
+            "info_gain": 0.11111111090067335,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.56
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5866666666666667,
+            "error_coverage": 0.16666666666603536,
+            "info_gain": 0.11111111090067335,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.56
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6133333333333333,
+            "error_coverage": 0.17424242424176423,
+            "info_gain": 0.16161616131007026,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.564
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.56,
+            "error_coverage": 0.1590909090903065,
+            "info_gain": 0.06060606049127645,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.556
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.5866666666666667,
+            "error_coverage": 0.16666666666603536,
+            "info_gain": 0.11111111090067335,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.56
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.6,
+            "error_coverage": 0.1704545454538998,
+            "info_gain": 0.1363636361053718,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.562
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6133333333333333,
+            "error_coverage": 0.17424242424176423,
+            "info_gain": 0.16161616131007026,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.564
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.284090909089833,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.622
+        }
+      },
+      "0.2": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5,
+            "error_coverage": 0.189393939393222,
+            "info_gain": -0.0530303029298669,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.572
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.64,
+            "error_coverage": 0.24242424242332417,
+            "info_gain": 0.21212121171946738,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.6
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.64,
+            "error_coverage": 0.24242424242332417,
+            "info_gain": 0.21212121171946738,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.6
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.62,
+            "error_coverage": 0.23484848484759527,
+            "info_gain": 0.1742424239124196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.596
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.59,
+            "error_coverage": 0.22348484848400196,
+            "info_gain": 0.11742424220184793,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.59
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.61,
+            "error_coverage": 0.23106060605973083,
+            "info_gain": 0.1553030300088957,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.594
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5,
+            "error_coverage": 0.189393939393222,
+            "info_gain": -0.0530303029298669,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.572
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.53,
+            "error_coverage": 0.20075757575681533,
+            "info_gain": 0.0037878787807047783,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.578
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.378787878786444,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.672
+        }
+      },
+      "0.25": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.528,
+            "error_coverage": 0.24999999999905304,
+            "info_gain": 0.0,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.604
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.648,
+            "error_coverage": 0.30681818181701964,
+            "info_gain": 0.2272727268422865,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.634
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.648,
+            "error_coverage": 0.30681818181701964,
+            "info_gain": 0.2272727268422865,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.634
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.632,
+            "error_coverage": 0.29924242424129077,
+            "info_gain": 0.19696969659664826,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.63
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.584,
+            "error_coverage": 0.2765151515141041,
+            "info_gain": 0.10606060585973359,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.618
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.568,
+            "error_coverage": 0.26893939393837524,
+            "info_gain": 0.07575757561409535,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.614
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.56,
+            "error_coverage": 0.2651515151505108,
+            "info_gain": 0.06060606049127645,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.612
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.568,
+            "error_coverage": 0.26893939393837524,
+            "info_gain": 0.07575757561409535,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.614
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.473484848483055,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.722
+        }
+      },
+      "0.3": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5266666666666666,
+            "error_coverage": 0.29924242424129077,
+            "info_gain": -0.0025252525204699926,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.63
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.6466666666666666,
+            "error_coverage": 0.36742424242285066,
+            "info_gain": 0.2247474743218165,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.666
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6466666666666666,
+            "error_coverage": 0.36742424242285066,
+            "info_gain": 0.2247474743218165,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.666
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6206896551724138,
+            "error_coverage": 0.3409090909077996,
+            "info_gain": 0.17554858900921438,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.652
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.5933333333333334,
+            "error_coverage": 0.3371212121199352,
+            "info_gain": 0.12373737350302269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.65
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.58,
+            "error_coverage": 0.3295454545442063,
+            "info_gain": 0.09848484829832403,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.646
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5733333333333334,
+            "error_coverage": 0.32575757575634184,
+            "info_gain": 0.0858585856959749,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.644
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.58,
+            "error_coverage": 0.3295454545442063,
+            "info_gain": 0.09848484829832403,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.646
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.568181818179666,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.772
+        }
+      },
+      "0.4": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.535,
+            "error_coverage": 0.40530303030149506,
+            "info_gain": 0.013257575732466725,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.686
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.62,
+            "error_coverage": 0.46969696969519054,
+            "info_gain": 0.1742424239124196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.72
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.62,
+            "error_coverage": 0.46969696969519054,
+            "info_gain": 0.1742424239124196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.72
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6187845303867403,
+            "error_coverage": 0.42424242424081726,
+            "info_gain": 0.17194039813409068,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.696
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.595,
+            "error_coverage": 0.45075757575586833,
+            "info_gain": 0.12689393915360986,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.71
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.57,
+            "error_coverage": 0.4318181818165462,
+            "info_gain": 0.07954545439480014,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.7
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.545,
+            "error_coverage": 0.412878787877224,
+            "info_gain": 0.03219696963599061,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.69
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.595,
+            "error_coverage": 0.45075757575586833,
+            "info_gain": 0.12689393915360986,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.71
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.757575757572888,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.872
+        }
+      },
+      "0.5": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.524,
+            "error_coverage": 0.49621212121024166,
+            "info_gain": -0.007575757561409557,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.734
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.6097560975609756,
+            "error_coverage": 0.568181818179666,
+            "info_gain": 0.1548410935722244,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.772
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6097560975609756,
+            "error_coverage": 0.568181818179666,
+            "info_gain": 0.1548410935722244,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.772
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.5991189427312775,
+            "error_coverage": 0.5151515151495638,
+            "info_gain": 0.13469496703898207,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.744
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.62,
+            "error_coverage": 0.5871212121189882,
+            "info_gain": 0.1742424239124196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.782
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.576,
+            "error_coverage": 0.5454545454524794,
+            "info_gain": 0.09090909073691447,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.76
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.572,
+            "error_coverage": 0.5416666666646149,
+            "info_gain": 0.08333333317550491,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.758
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.596,
+            "error_coverage": 0.5643939393918016,
+            "info_gain": 0.12878787854396226,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.77
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 1.0,
+            "error_coverage": 0.94696969696611,
+            "info_gain": 0.8939393922463269,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.972
+        }
+      }
+    },
+    "heterogeneous": {
+      "0.05": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.375,
+            "error_coverage": 0.03409090909077996,
+            "info_gain": -0.28977272672391535,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.49
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.4230769230769231,
+            "error_coverage": 0.04166666666650884,
+            "info_gain": -0.198717948341589,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.494
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5714285714285714,
+            "error_coverage": 0.06060606060583104,
+            "info_gain": 0.08225108209530357,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.504
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6296296296296297,
+            "error_coverage": 0.06439393939369548,
+            "info_gain": 0.19248035878247968,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.506
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.5185185185185185,
+            "error_coverage": 0.05303030303010216,
+            "info_gain": -0.01795735125667459,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.5
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.5357142857142857,
+            "error_coverage": 0.0568181818179666,
+            "info_gain": 0.01461038958271834,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.502
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.3870967741935484,
+            "error_coverage": 0.04545454545437328,
+            "info_gain": -0.2668621695825558,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.496
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5517241379310345,
+            "error_coverage": 0.06060606060583104,
+            "info_gain": 0.04493207932973934,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.504
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.9767441860465116,
+            "error_coverage": 0.1590909090903065,
+            "info_gain": 0.8498942901451084,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.556
+        }
+      },
+      "0.1": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5185185185185185,
+            "error_coverage": 0.10606060606020432,
+            "info_gain": -0.01795735125667459,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.528
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5192307692307693,
+            "error_coverage": 0.10227272727233988,
+            "info_gain": -0.016608391576936287,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.526
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5535714285714286,
+            "error_coverage": 0.11742424242379763,
+            "info_gain": 0.048430735839011065,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.534
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.5961538461538461,
+            "error_coverage": 0.11742424242379763,
+            "info_gain": 0.12907925383478575,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.534
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.509090909090909,
+            "error_coverage": 0.10606060606020432,
+            "info_gain": -0.03581267210848166,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.528
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.64,
+            "error_coverage": 0.12121212121166208,
+            "info_gain": 0.21212121171946738,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.536
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5272727272727272,
+            "error_coverage": 0.10984848484806876,
+            "info_gain": -0.0013774104657109623,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.53
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5357142857142857,
+            "error_coverage": 0.1136363636359332,
+            "info_gain": 0.01461038958271834,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.532
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.9875,
+            "error_coverage": 0.29924242424129077,
+            "info_gain": 0.8702651498669222,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.63
+        }
+      },
+      "0.15": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5121951219512195,
+            "error_coverage": 0.1590909090903065,
+            "info_gain": -0.029933481096301177,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.556
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5125,
+            "error_coverage": 0.15530303030244205,
+            "info_gain": -0.029356060550462137,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.554
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6125,
+            "error_coverage": 0.18560606060535756,
+            "info_gain": 0.1600378784847768,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.57
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6142857142857143,
+            "error_coverage": 0.16287878787817092,
+            "info_gain": 0.16341991311040605,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.558
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.56,
+            "error_coverage": 0.1590909090903065,
+            "info_gain": 0.06060606049127645,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.556
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.6216216216216216,
+            "error_coverage": 0.17424242424176423,
+            "info_gain": 0.17731367697785588,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.564
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5697674418604651,
+            "error_coverage": 0.18560606060535756,
+            "info_gain": 0.07910500337378808,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.57
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5487804878048781,
+            "error_coverage": 0.1704545454538998,
+            "info_gain": 0.039356984404395993,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.562
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.9911504424778761,
+            "error_coverage": 0.42424242424081726,
+            "info_gain": 0.8771788666679872,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.696
+        }
+      },
+      "0.2": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5046728971962616,
+            "error_coverage": 0.20454545454467976,
+            "info_gain": -0.04418011886279977,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.58
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5377358490566038,
+            "error_coverage": 0.2159090909082731,
+            "info_gain": 0.018439108026826957,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.586
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.62,
+            "error_coverage": 0.23484848484759527,
+            "info_gain": 0.1742424239124196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.596
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6185567010309279,
+            "error_coverage": 0.2272727272718664,
+            "info_gain": 0.17150890314283887,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.592
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.5714285714285714,
+            "error_coverage": 0.21212121212040863,
+            "info_gain": 0.08225108209530357,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.584
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.6020408163265306,
+            "error_coverage": 0.22348484848400196,
+            "info_gain": 0.14022881853466246,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.59
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5818181818181818,
+            "error_coverage": 0.24242424242332417,
+            "info_gain": 0.10192837446260111,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.6
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.580952380952381,
+            "error_coverage": 0.23106060605973083,
+            "info_gain": 0.1002886000986598,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.594
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.993006993006993,
+            "error_coverage": 0.5378787878767505,
+            "info_gain": 0.8806950608452613,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.756
+        }
+      },
+      "0.25": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5271317829457365,
+            "error_coverage": 0.2575757575747819,
+            "info_gain": -0.0016443504784454397,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.608
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5661764705882353,
+            "error_coverage": 0.2916666666655619,
+            "info_gain": 0.07230392143168814,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.626
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6178861788617886,
+            "error_coverage": 0.28787878787769744,
+            "info_gain": 0.17023897479460162,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.624
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6166666666666667,
+            "error_coverage": 0.28030303030196857,
+            "info_gain": 0.16792929261124503,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.62
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.5772357723577236,
+            "error_coverage": 0.26893939393837524,
+            "info_gain": 0.09324956868271594,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.614
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.5748031496062992,
+            "error_coverage": 0.2765151515141041,
+            "info_gain": 0.08864232863192582,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.618
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.572463768115942,
+            "error_coverage": 0.29924242424129077,
+            "info_gain": 0.0842116818782771,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.63
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5877862595419847,
+            "error_coverage": 0.2916666666655619,
+            "info_gain": 0.1132315519483961,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.626
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.9940828402366864,
+            "error_coverage": 0.636363636361226,
+            "info_gain": 0.882732650291579,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.808
+        }
+      },
+      "0.3": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5253164556962026,
+            "error_coverage": 0.3143939393927485,
+            "info_gain": -0.005082470262717801,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.638
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5786163522012578,
+            "error_coverage": 0.34848484848352845,
+            "info_gain": 0.09586430322991196,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.656
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6363636363636364,
+            "error_coverage": 0.34469696969566405,
+            "info_gain": 0.2052341593909132,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.654
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.636986301369863,
+            "error_coverage": 0.3522727272713929,
+            "info_gain": 0.20641344917319987,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.658
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.589041095890411,
+            "error_coverage": 0.32575757575634184,
+            "info_gain": 0.11560813593712656,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.644
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.5328947368421053,
+            "error_coverage": 0.30681818181701964,
+            "info_gain": 0.009270334910672254,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.634
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5662650602409639,
+            "error_coverage": 0.3560606060592574,
+            "info_gain": 0.07247170486456851,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.66
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5668789808917197,
+            "error_coverage": 0.3371212121199352,
+            "info_gain": 0.07363443336758574,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.65
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.9947916666666666,
+            "error_coverage": 0.723484848482108,
+            "info_gain": 0.8840751245882414,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.854
+        }
+      },
+      "0.4": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.526829268292683,
+            "error_coverage": 0.4090909090893595,
+            "info_gain": -0.002217294896022309,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.688
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5679611650485437,
+            "error_coverage": 0.44318181818013946,
+            "info_gain": 0.07568402456980987,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.706
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6270270270270271,
+            "error_coverage": 0.43939393939227506,
+            "info_gain": 0.187551187195977,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.704
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6402116402116402,
+            "error_coverage": 0.45833333333159726,
+            "info_gain": 0.2125220454528753,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.714
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.5978260869565217,
+            "error_coverage": 0.4166666666650884,
+            "info_gain": 0.1322463765611275,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.692
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.57,
+            "error_coverage": 0.4318181818165462,
+            "info_gain": 0.07954545439480014,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.7
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5829383886255924,
+            "error_coverage": 0.46590909090732613,
+            "info_gain": 0.10404997826049704,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.718
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5679611650485437,
+            "error_coverage": 0.44318181818013946,
+            "info_gain": 0.07568402456980987,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.706
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.991304347826087,
+            "error_coverage": 0.8636363636330924,
+            "info_gain": 0.8774703540693497,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.928
+        }
+      },
+      "0.5": {
+        "random": {
+          "hit_rate": {
+            "hit_rate": 0.5275590551181102,
+            "error_coverage": 0.507575757573835,
+            "info_gain": -0.0008351228807854446,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.74
+        },
+        "threshold": {
+          "hit_rate": {
+            "hit_rate": 0.5731225296442688,
+            "error_coverage": 0.5492424242403438,
+            "info_gain": 0.08545933628562394,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.762
+        },
+        "threshold_strat": {
+          "hit_rate": {
+            "hit_rate": 0.6150234741784038,
+            "error_coverage": 0.49621212121024166,
+            "info_gain": 0.16481718563179268,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.734
+        },
+        "cst_mem": {
+          "hit_rate": {
+            "hit_rate": 0.6016949152542372,
+            "error_coverage": 0.5378787878767505,
+            "info_gain": 0.1395737028686809,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.756
+        },
+        "rule_system": {
+          "hit_rate": {
+            "hit_rate": 0.603448275862069,
+            "error_coverage": 0.5303030303010215,
+            "info_gain": 0.14289446158934557,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.752
+        },
+        "mp_static": {
+          "hit_rate": {
+            "hit_rate": 0.5587044534412956,
+            "error_coverage": 0.5227272727252927,
+            "info_gain": 0.05815237383171061,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.748
+        },
+        "mp_adapt": {
+          "hit_rate": {
+            "hit_rate": 0.5741444866920152,
+            "error_coverage": 0.5719696969675304,
+            "info_gain": 0.08739486099359914,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.774
+        },
+        "mp_strat": {
+          "hit_rate": {
+            "hit_rate": 0.5652173913043478,
+            "error_coverage": 0.5416666666646149,
+            "info_gain": 0.07048748339746264,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.758
+        },
+        "oracle": {
+          "hit_rate": {
+            "hit_rate": 0.9960629921259843,
+            "error_coverage": 0.9583333333297033,
+            "info_gain": 0.8864829379536009,
+            "random_hit_rate": 0.528
+          },
+          "corrected_acc": 0.978
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "path": "data/math_eval_results_llama3_4096.jsonl",
+    "bytes": 407723,
+    "sha256": "fe404d538254e450ed2b1e7d0b4a7f33851e2c4acab72384d285ccb66db98aea"
+  },
+  {
+    "path": "data/math_eval_results_qwen3_4096.jsonl",
+    "bytes": 405329,
+    "sha256": "af8449a8d4107d01697c5644f5a7d4bc967677e556f65512d5909dba5930a31e"
+  },
+  {
+    "path": "data/math_signal_results_llama3_4096.json",
+    "bytes": 1495020,
+    "sha256": "87aec2498feba909def1e4840a2500041083a796d8258e605a19d998ca850325"
+  },
+  {
+    "path": "data/math_signal_results_qwen3_4096.json",
+    "bytes": 1497693,
+    "sha256": "71d2abd313500cca5dbc99022391ba3b711d0a0eae11f1a47fc99e96871566ae"
+  },
+  {
+    "path": "data/mbpp_eval_results_gpt-4o-mini.jsonl",
+    "bytes": 16675,
+    "sha256": "129dcadc356f83d9307fd94e1f36c188851d2a0259308da4d729a3f0ce809764"
+  },
+  {
+    "path": "data/mbpp_eval_results_llama3.jsonl",
+    "bytes": 16733,
+    "sha256": "fbbacbf86d2312be0f0b947ed3c829c044803bfa3e5acec504763b584795c1ac"
+  },
+  {
+    "path": "data/mbpp_eval_results_qwen3.jsonl",
+    "bytes": 16690,
+    "sha256": "974f16fb33edcb38baa561445fa4eab92499172280d0eab264174b5dc841b8d6"
+  },
+  {
+    "path": "data/mbpp_signal_results_gpt-4o-mini.json",
+    "bytes": 138534,
+    "sha256": "f6b075a849cf300dbadea6e3743ea84f243db7b16f65f677cdf34618017b0a6e"
+  },
+  {
+    "path": "data/mbpp_signal_results_llama3.json",
+    "bytes": 143030,
+    "sha256": "c346d5839028a7b4dd79ae47560bd24ae5d5e4b1c2b20641888e48c2291a0adb"
+  },
+  {
+    "path": "data/mbpp_signal_results_qwen3.json",
+    "bytes": 137809,
+    "sha256": "d98b0e52bdd6b6c7e00f73ead576a583959d18d4740cadc3fd403e512edc9cb6"
+  },
+  {
+    "path": "results/comet_reanalysis.json",
+    "bytes": 20707,
+    "sha256": "a826a79cc47e998fb6745a4b483f98134f570d935304e9d9bd44a4169871d7fe"
+  },
+  {
+    "path": "results/hga_reanalysis.json",
+    "bytes": 91045,
+    "sha256": "1763f3f51dfd0ec2215959d4170bab99aefd875aab06b14bc3c31a7ad768b059"
+  },
+  {
+    "path": "results/math_experiment_results_llama3_bootstrap.json",
+    "bytes": 549284,
+    "sha256": "47801a2f81370eb198b0e5f7b5293610009dbda3ff61fbe119a912b1aa165f38"
+  },
+  {
+    "path": "results/math_experiment_results_llama3.json",
+    "bytes": 42039,
+    "sha256": "6b849b4db330be780ec65de2ec38202c9aaf8b518824078618a00fc5a78ef3ea"
+  },
+  {
+    "path": "results/math_experiment_results_qwen3_bootstrap.json",
+    "bytes": 549055,
+    "sha256": "27dc29fa7b1d728a279c320e878ee716a37763970e5f291810f217fd73e4f318"
+  },
+  {
+    "path": "results/math_experiment_results_qwen3.json",
+    "bytes": 41978,
+    "sha256": "468d4fc079cb2ff4ed3ebd5b5618e3881f6972fb9bd13960b346efce1e49a0a1"
+  },
+  {
+    "path": "results/mbpp_experiment_results_gpt-4o-mini_bootstrap.json",
+    "bytes": 545968,
+    "sha256": "59abdb7c6cdde9998411bac000f58325269ff32954e5c30ecbd689a46851d665"
+  },
+  {
+    "path": "results/mbpp_experiment_results_gpt-4o-mini.json",
+    "bytes": 41656,
+    "sha256": "8f8c5131b5f9c83815c8f491b4b3417ab79cfb824e4b6d3436e8275a069526e4"
+  },
+  {
+    "path": "results/mbpp_experiment_results_llama3_bootstrap.json",
+    "bytes": 545352,
+    "sha256": "ddd475587a60678ce4c4dde0e83f00d65e912ff4730a3b6bd56bc47be32d03e4"
+  },
+  {
+    "path": "results/mbpp_experiment_results_qwen3_bootstrap.json",
+    "bytes": 544917,
+    "sha256": "6266becadfe98dc297f574c7eae6437951d08f2e311c92781c55195d59811d43"
+  },
+  {
+    "path": "results/mbpp_routing_reanalysis.json",
+    "bytes": 71616,
+    "sha256": "7a78be590eb0ba8ddae4106c271330f98e2a16acca5eb8fef2f3a97f59ce2bee"
+  }
+]

@@ -1,0 +1,5502 @@
+[
+  {
+    "task_id": 11,
+    "signals": {
+      "ht1_neg_logprob": 0.035694500224457845,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.009418200326902625,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.140625
+    }
+  },
+  {
+    "task_id": 12,
+    "signals": {
+      "ht1_neg_logprob": 0.02381670309437646,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.02973674602883279,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 13,
+    "signals": {
+      "ht1_neg_logprob": 0.020578381820366934,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.024902243039974386,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 14,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 15,
+    "signals": {
+      "ht1_neg_logprob": 0.02310660068805401,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.004407766105541386,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.126953125
+    }
+  },
+  {
+    "task_id": 16,
+    "signals": {
+      "ht1_neg_logprob": 0.028359570850928623,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.03424025939079919,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 17,
+    "signals": {
+      "ht1_neg_logprob": 0.0038880315919717153,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.004003644526353863,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.029296875
+    }
+  },
+  {
+    "task_id": 18,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 19,
+    "signals": {
+      "ht1_neg_logprob": 0.03431592509150505,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.04572597680916511,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 20,
+    "signals": {
+      "ht1_neg_logprob": 0.037783323616628915,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.007941650494259869,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.138671875
+    }
+  },
+  {
+    "task_id": 21,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 22,
+    "signals": {
+      "ht1_neg_logprob": 0.002132155403897569,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.002218513476321589,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 23,
+    "signals": {
+      "ht1_neg_logprob": 0.004623359636120174,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.004878125674797553,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 24,
+    "signals": {
+      "ht1_neg_logprob": 0.017636679770315394,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.020097118013288104,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.06640625
+    }
+  },
+  {
+    "task_id": 25,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 26,
+    "signals": {
+      "ht1_neg_logprob": 0.10903914679180492,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.057585320793892364,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 27,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 28,
+    "signals": {
+      "ht1_neg_logprob": 0.02884533859434582,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.0018256541495665823,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 29,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 30,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.22265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.115234375
+    }
+  },
+  {
+    "task_id": 31,
+    "signals": {
+      "ht1_neg_logprob": 0.047445780358144216,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.044008252643373894,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 32,
+    "signals": {
+      "ht1_neg_logprob": 0.005596913959620134,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.006071854295687577,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.103515625
+    }
+  },
+  {
+    "task_id": 33,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.10546875
+    }
+  },
+  {
+    "task_id": 34,
+    "signals": {
+      "ht1_neg_logprob": 0.03199962796508402,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.005260381677024503,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.134765625
+    }
+  },
+  {
+    "task_id": 35,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 36,
+    "signals": {
+      "ht1_neg_logprob": 0.026201850089889307,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.02468600509405324,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1015625
+    }
+  },
+  {
+    "task_id": 37,
+    "signals": {
+      "ht1_neg_logprob": 0.015310737703527724,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.019116479589963938,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 38,
+    "signals": {
+      "ht1_neg_logprob": 0.002679940809806188,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.002845461552785345,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.146484375
+    }
+  },
+  {
+    "task_id": 39,
+    "signals": {
+      "ht1_neg_logprob": 0.02186881397695591,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.018337520566434767,
+      "cost_token_len": 0.22265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1875
+    }
+  },
+  {
+    "task_id": 40,
+    "signals": {
+      "ht1_neg_logprob": 0.017214182857424022,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.01768782467336605,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.078125
+    }
+  },
+  {
+    "task_id": 41,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 42,
+    "signals": {
+      "ht1_neg_logprob": 0.02251492016431358,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.022714817402079458,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.140625
+    }
+  },
+  {
+    "task_id": 43,
+    "signals": {
+      "ht1_neg_logprob": 0.011481870864999705,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.012516080541885887,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 44,
+    "signals": {
+      "ht1_neg_logprob": 0.06698217863837878,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.05277801978946332,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.029296875
+    }
+  },
+  {
+    "task_id": 45,
+    "signals": {
+      "ht1_neg_logprob": 0.007048117341818633,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.007763384709299919,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 46,
+    "signals": {
+      "ht1_neg_logprob": 0.04077336367438821,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.058823529411764705,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 47,
+    "signals": {
+      "ht1_neg_logprob": 0.030020898580551146,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.0034935231191849637,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1171875
+    }
+  },
+  {
+    "task_id": 48,
+    "signals": {
+      "ht1_neg_logprob": 0.008917192928493023,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.009584684285224557,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 49,
+    "signals": {
+      "ht1_neg_logprob": 0.007191712927559148,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.008012821640958455,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 50,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 51,
+    "signals": {
+      "ht1_neg_logprob": 0.006380244441654371,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.006621566027777689,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 52,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.029296875
+    }
+  },
+  {
+    "task_id": 53,
+    "signals": {
+      "ht1_neg_logprob": 0.0061386828461001,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.006761657650035413,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 54,
+    "signals": {
+      "ht1_neg_logprob": 0.0010114070505667955,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.0010523717772294718,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.15234375
+    }
+  },
+  {
+    "task_id": 55,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 56,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 57,
+    "signals": {
+      "ht1_neg_logprob": 0.01049704353014628,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.011937699869174588,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 58,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 59,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 60,
+    "signals": {
+      "ht1_neg_logprob": 0.009684614575745766,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.011000799541478784,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.111328125
+    }
+  },
+  {
+    "task_id": 61,
+    "signals": {
+      "ht1_neg_logprob": 0.011469081778761367,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.010048083159834374,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.138671875
+    }
+  },
+  {
+    "task_id": 62,
+    "signals": {
+      "ht1_neg_logprob": 0.05167173899032853,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.01842791820406806,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0859375
+    }
+  },
+  {
+    "task_id": 63,
+    "signals": {
+      "ht1_neg_logprob": 0.006317545899323054,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.007087374057304112,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 64,
+    "signals": {
+      "ht1_neg_logprob": 0.005063679601464953,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.005342709072397321,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 65,
+    "signals": {
+      "ht1_neg_logprob": 0.017711445208518736,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.02360050415956909,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 66,
+    "signals": {
+      "ht1_neg_logprob": 0.011996621177310035,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.013643085564770957,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 67,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.19921875
+    }
+  },
+  {
+    "task_id": 68,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 69,
+    "signals": {
+      "ht1_neg_logprob": 0.18394092896154948,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.021891341404613303,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 70,
+    "signals": {
+      "ht1_neg_logprob": 0.0019692087339030374,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0020777201948211804,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.10546875
+    }
+  },
+  {
+    "task_id": 71,
+    "signals": {
+      "ht1_neg_logprob": 0.012830338307789393,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.016794056188338437,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.232421875
+    }
+  },
+  {
+    "task_id": 72,
+    "signals": {
+      "ht1_neg_logprob": 0.02491618375309178,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.01111656432027851,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 73,
+    "signals": {
+      "ht1_neg_logprob": 0.07605221039719051,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.06178451225421607,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 74,
+    "signals": {
+      "ht1_neg_logprob": 0.01778030858821228,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.008538219449776663,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.232421875
+    }
+  },
+  {
+    "task_id": 75,
+    "signals": {
+      "ht1_neg_logprob": 0.06455736324704926,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.007227978867279235,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 76,
+    "signals": {
+      "ht1_neg_logprob": 0.0271135556792456,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.017365564723366356,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.24609375
+    }
+  },
+  {
+    "task_id": 77,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.130859375
+    }
+  },
+  {
+    "task_id": 78,
+    "signals": {
+      "ht1_neg_logprob": 0.04406677462436535,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.03568272367661675,
+      "cost_token_len": 0.212890625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.10546875
+    }
+  },
+  {
+    "task_id": 79,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 80,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 81,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 82,
+    "signals": {
+      "ht1_neg_logprob": 0.003938417467806075,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.004155440389642361,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 83,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 84,
+    "signals": {
+      "ht1_neg_logprob": 0.015726875903001473,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.007988976545059557,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.130859375
+    }
+  },
+  {
+    "task_id": 85,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 86,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 87,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 88,
+    "signals": {
+      "ht1_neg_logprob": 0.20229220390319824,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.05492166508785374,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 89,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 90,
+    "signals": {
+      "ht1_neg_logprob": 0.011080339950110232,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.012377123741267787,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 91,
+    "signals": {
+      "ht1_neg_logprob": 0.0025356727773728576,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.002611072517187302,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 92,
+    "signals": {
+      "ht1_neg_logprob": 0.014461688391149861,
+      "ht2_neg_min_margin": -0.6249999403953552,
+      "ht3_logprob_var": 0.01209449723466978,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.142578125
+    }
+  },
+  {
+    "task_id": 93,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 94,
+    "signals": {
+      "ht1_neg_logprob": 0.019683274979654112,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.013570758059608922,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1484375
+    }
+  },
+  {
+    "task_id": 95,
+    "signals": {
+      "ht1_neg_logprob": 0.006354965269565582,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.007530877436092288,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1015625
+    }
+  },
+  {
+    "task_id": 96,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0859375
+    }
+  },
+  {
+    "task_id": 97,
+    "signals": {
+      "ht1_neg_logprob": 0.009762478371461233,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.01055918280522299,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.087890625
+    }
+  },
+  {
+    "task_id": 98,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 99,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.103515625
+    }
+  },
+  {
+    "task_id": 100,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.078125
+    }
+  },
+  {
+    "task_id": 101,
+    "signals": {
+      "ht1_neg_logprob": 0.008917192928493023,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.009584684285224557,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 102,
+    "signals": {
+      "ht1_neg_logprob": 0.07963692396879196,
+      "ht2_neg_min_margin": -0.78125,
+      "ht3_logprob_var": 0.02861458511072589,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 103,
+    "signals": {
+      "ht1_neg_logprob": 0.0012659199003662383,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0013356772680993302,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 104,
+    "signals": {
+      "ht1_neg_logprob": 0.0832768052816391,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.0633438528732816,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 105,
+    "signals": {
+      "ht1_neg_logprob": 0.01943871729514178,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.023035625098635236,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 106,
+    "signals": {
+      "ht1_neg_logprob": 0.03337432692448298,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.042421684408617995,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 107,
+    "signals": {
+      "ht1_neg_logprob": 0.01008295497068992,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.012981731068722855,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.126953125
+    }
+  },
+  {
+    "task_id": 108,
+    "signals": {
+      "ht1_neg_logprob": 0.0411649491948386,
+      "ht2_neg_min_margin": -0.6249999403953552,
+      "ht3_logprob_var": 0.011983112568757556,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.234375
+    }
+  },
+  {
+    "task_id": 109,
+    "signals": {
+      "ht1_neg_logprob": 0.005493651391292105,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.005952987464795849,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 110,
+    "signals": {
+      "ht1_neg_logprob": 0.01820559852889606,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.022695504787672478,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 111,
+    "signals": {
+      "ht1_neg_logprob": 0.02308943909075525,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.020690911546391338,
+      "cost_token_len": 0.21875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0703125
+    }
+  },
+  {
+    "task_id": 112,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 113,
+    "signals": {
+      "ht1_neg_logprob": 0.0032870729143420854,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.003420208275995783,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 114,
+    "signals": {
+      "ht1_neg_logprob": 0.04708583811496166,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.035704477096531684,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.091796875
+    }
+  },
+  {
+    "task_id": 115,
+    "signals": {
+      "ht1_neg_logprob": 0.1473985399518694,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.03483883947364961,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 116,
+    "signals": {
+      "ht1_neg_logprob": 0.11209306452009413,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.008519719364644051,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 117,
+    "signals": {
+      "ht1_neg_logprob": 0.010659941742497106,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.012632439570219322,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 118,
+    "signals": {
+      "ht1_neg_logprob": 0.015858264019091923,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.01746761559592482,
+      "cost_token_len": 0.224609375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 119,
+    "signals": {
+      "ht1_neg_logprob": 0.0131314716643036,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.004471884104674326,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.197265625
+    }
+  },
+  {
+    "task_id": 120,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.103515625
+    }
+  },
+  {
+    "task_id": 121,
+    "signals": {
+      "ht1_neg_logprob": 0.004011745036570067,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.004419015086385534,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.189453125
+    }
+  },
+  {
+    "task_id": 122,
+    "signals": {
+      "ht1_neg_logprob": 0.020802219453103402,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.02603940550974669,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1328125
+    }
+  },
+  {
+    "task_id": 123,
+    "signals": {
+      "ht1_neg_logprob": 0.025223620476261262,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.014837795574080746,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.2421875
+    }
+  },
+  {
+    "task_id": 124,
+    "signals": {
+      "ht1_neg_logprob": 0.031552893611101,
+      "ht2_neg_min_margin": -1.875,
+      "ht3_logprob_var": 0.023593070416040106,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 125,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.22265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.19921875
+    }
+  },
+  {
+    "task_id": 126,
+    "signals": {
+      "ht1_neg_logprob": 0.003893137268431775,
+      "ht2_neg_min_margin": -1.875,
+      "ht3_logprob_var": 0.0034487254203282103,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.150390625
+    }
+  },
+  {
+    "task_id": 127,
+    "signals": {
+      "ht1_neg_logprob": 0.00869626826361606,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.010305411228336815,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.07421875
+    }
+  },
+  {
+    "task_id": 128,
+    "signals": {
+      "ht1_neg_logprob": 0.01007716178894043,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.011460191874407603,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 129,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.263671875
+    }
+  },
+  {
+    "task_id": 130,
+    "signals": {
+      "ht1_neg_logprob": 0.04115703855843648,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.015424473923264972,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 131,
+    "signals": {
+      "ht1_neg_logprob": 0.05891700453825833,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.022575519443344374,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.189453125
+    }
+  },
+  {
+    "task_id": 132,
+    "signals": {
+      "ht1_neg_logprob": 0.08545541231121336,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.04918688407732737,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 133,
+    "signals": {
+      "ht1_neg_logprob": 0.0025356727773728576,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.002611072517187302,
+      "cost_token_len": 0.21484375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 134,
+    "signals": {
+      "ht1_neg_logprob": 0.016020382798853375,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.010056550014599219,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 135,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 136,
+    "signals": {
+      "ht1_neg_logprob": 0.0239688903093338,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.008912183223036435,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.203125
+    }
+  },
+  {
+    "task_id": 137,
+    "signals": {
+      "ht1_neg_logprob": 0.003695961001307465,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.002609230012101017,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 138,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.234375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 139,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 140,
+    "signals": {
+      "ht1_neg_logprob": 0.04629056100718311,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.01989196092555575,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 141,
+    "signals": {
+      "ht1_neg_logprob": 0.012609108229694159,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.007037590424340588,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1796875
+    }
+  },
+  {
+    "task_id": 142,
+    "signals": {
+      "ht1_neg_logprob": 0.04839964518160151,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.03830308637752191,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.111328125
+    }
+  },
+  {
+    "task_id": 143,
+    "signals": {
+      "ht1_neg_logprob": 0.00699802902009752,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.007958466579449725,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0703125
+    }
+  },
+  {
+    "task_id": 144,
+    "signals": {
+      "ht1_neg_logprob": 0.010558746182001554,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.014069531325896957,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1015625
+    }
+  },
+  {
+    "task_id": 145,
+    "signals": {
+      "ht1_neg_logprob": 0.01600074829304055,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.020225869104338767,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.142578125
+    }
+  },
+  {
+    "task_id": 146,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 147,
+    "signals": {
+      "ht1_neg_logprob": 0.02853777188144318,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.008235849504491737,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.142578125
+    }
+  },
+  {
+    "task_id": 148,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.2109375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.14453125
+    }
+  },
+  {
+    "task_id": 149,
+    "signals": {
+      "ht1_neg_logprob": 0.0034044465503177126,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.0038716864440566227,
+      "cost_token_len": 0.2265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.14453125
+    }
+  },
+  {
+    "task_id": 150,
+    "signals": {
+      "ht1_neg_logprob": 0.04631845318541235,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.008976729498444552,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 151,
+    "signals": {
+      "ht1_neg_logprob": 0.021117492364003107,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.028139062651793913,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 152,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.33984375
+    }
+  },
+  {
+    "task_id": 153,
+    "signals": {
+      "ht1_neg_logprob": 0.013306087106466294,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.013666040249035914,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09765625
+    }
+  },
+  {
+    "task_id": 154,
+    "signals": {
+      "ht1_neg_logprob": 0.003069498625240828,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0031607719944898916,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.07421875
+    }
+  },
+  {
+    "task_id": 155,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 156,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 157,
+    "signals": {
+      "ht1_neg_logprob": 0.007673805934332666,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.007798745146955703,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 158,
+    "signals": {
+      "ht1_neg_logprob": 0.06070098595486747,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.028787930015108407,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.087890625
+    }
+  },
+  {
+    "task_id": 159,
+    "signals": {
+      "ht1_neg_logprob": 0.04025309527946624,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.01941453382088418,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.294921875
+    }
+  },
+  {
+    "task_id": 160,
+    "signals": {
+      "ht1_neg_logprob": 0.06214255405986895,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.013962704339955044,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 161,
+    "signals": {
+      "ht1_neg_logprob": 0.09322144516876765,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.045719080149609945,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 162,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.22265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.064453125
+    }
+  },
+  {
+    "task_id": 163,
+    "signals": {
+      "ht1_neg_logprob": 0.02068135129021747,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.02361684577582874,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 164,
+    "signals": {
+      "ht1_neg_logprob": 0.023241592008014057,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.021183328202083494,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.16796875
+    }
+  },
+  {
+    "task_id": 165,
+    "signals": {
+      "ht1_neg_logprob": 0.053619581720103386,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.004556769285893431,
+      "cost_token_len": 0.21484375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 166,
+    "signals": {
+      "ht1_neg_logprob": 0.0026993073034481925,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0028237960396008473,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 167,
+    "signals": {
+      "ht1_neg_logprob": 0.0028535017371177675,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.0030670989712718584,
+      "cost_token_len": 0.212890625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09765625
+    }
+  },
+  {
+    "task_id": 168,
+    "signals": {
+      "ht1_neg_logprob": 0.016517425284666175,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.014591652470920232,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.06640625
+    }
+  },
+  {
+    "task_id": 169,
+    "signals": {
+      "ht1_neg_logprob": 0.0045896971391306985,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.005438967037177764,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.140625
+    }
+  },
+  {
+    "task_id": 170,
+    "signals": {
+      "ht1_neg_logprob": 0.028920790553092955,
+      "ht2_neg_min_margin": -0.9375000596046448,
+      "ht3_logprob_var": 0.01958028016676427,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 171,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 172,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.263671875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.125
+    }
+  },
+  {
+    "task_id": 173,
+    "signals": {
+      "ht1_neg_logprob": 0.015020827000791376,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.01780025575803632,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 174,
+    "signals": {
+      "ht1_neg_logprob": 0.003318025275718334,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.003566394152641696,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 175,
+    "signals": {
+      "ht1_neg_logprob": 0.011188941049403038,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.01568239128440433,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.134765625
+    }
+  },
+  {
+    "task_id": 176,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 177,
+    "signals": {
+      "ht1_neg_logprob": 0.02694687115795472,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.009972212110838074,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1328125
+    }
+  },
+  {
+    "task_id": 178,
+    "signals": {
+      "ht1_neg_logprob": 0.01640895213931799,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.015109069230766319,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1953125
+    }
+  },
+  {
+    "task_id": 179,
+    "signals": {
+      "ht1_neg_logprob": 0.0192358995286318,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.018204244977211518,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.126953125
+    }
+  },
+  {
+    "task_id": 180,
+    "signals": {
+      "ht1_neg_logprob": 0.02729564509499147,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.01676304419189639,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.314453125
+    }
+  },
+  {
+    "task_id": 181,
+    "signals": {
+      "ht1_neg_logprob": 0.03967954308308404,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.024115546334147135,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 182,
+    "signals": {
+      "ht1_neg_logprob": 0.008137998686117285,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.010411418558943937,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.166015625
+    }
+  },
+  {
+    "task_id": 183,
+    "signals": {
+      "ht1_neg_logprob": 0.0009560733422881268,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0009845027523820975,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 184,
+    "signals": {
+      "ht1_neg_logprob": 0.08509834246201949,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.0095277903250499,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 185,
+    "signals": {
+      "ht1_neg_logprob": 0.03471297122862028,
+      "ht2_neg_min_margin": -0.3125000596046448,
+      "ht3_logprob_var": 0.035378286259254446,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 186,
+    "signals": {
+      "ht1_neg_logprob": 0.002430019744982322,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0025022778289711645,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 187,
+    "signals": {
+      "ht1_neg_logprob": 0.0037350666766264,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.00497697706766423,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.287109375
+    }
+  },
+  {
+    "task_id": 188,
+    "signals": {
+      "ht1_neg_logprob": 0.015647376908196342,
+      "ht2_neg_min_margin": -0.9374999403953552,
+      "ht3_logprob_var": 0.004351173889092377,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.17578125
+    }
+  },
+  {
+    "task_id": 189,
+    "signals": {
+      "ht1_neg_logprob": 0.0016840634356557796,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.0018549680278858213,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.220703125
+    }
+  },
+  {
+    "task_id": 190,
+    "signals": {
+      "ht1_neg_logprob": 0.006150449144429174,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.004939737876899829,
+      "cost_token_len": 0.21484375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 191,
+    "signals": {
+      "ht1_neg_logprob": 0.013606737840634126,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.014322561117490903,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.25390625
+    }
+  },
+  {
+    "task_id": 192,
+    "signals": {
+      "ht1_neg_logprob": 0.031698954105377194,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.009790140666919975,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.078125
+    }
+  },
+  {
+    "task_id": 193,
+    "signals": {
+      "ht1_neg_logprob": 0.03565954949174609,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.038232959179927875,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 194,
+    "signals": {
+      "ht1_neg_logprob": 0.035788008234870265,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.010224403822949035,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.138671875
+    }
+  },
+  {
+    "task_id": 195,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.189453125
+    }
+  },
+  {
+    "task_id": 196,
+    "signals": {
+      "ht1_neg_logprob": 0.017157962545752525,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.022862988404582556,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 197,
+    "signals": {
+      "ht1_neg_logprob": 0.02990402194096687,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.036602996790519,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.091796875
+    }
+  },
+  {
+    "task_id": 198,
+    "signals": {
+      "ht1_neg_logprob": 0.22361268385341673,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.0698859168633785,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.064453125
+    }
+  },
+  {
+    "task_id": 199,
+    "signals": {
+      "ht1_neg_logprob": 0.03057804238051176,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.04083468428522456,
+      "cost_token_len": 0.21484375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 200,
+    "signals": {
+      "ht1_neg_logprob": 0.01610114234380233,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.02086411865565489,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.076171875
+    }
+  },
+  {
+    "task_id": 201,
+    "signals": {
+      "ht1_neg_logprob": 0.02888113260269165,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.041666666666666664,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 202,
+    "signals": {
+      "ht1_neg_logprob": 0.02152854496879237,
+      "ht2_neg_min_margin": -0.6250000596046448,
+      "ht3_logprob_var": 0.02204808554424367,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 203,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 204,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 205,
+    "signals": {
+      "ht1_neg_logprob": 0.002648772050937017,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0018699481753390622,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1171875
+    }
+  },
+  {
+    "task_id": 206,
+    "signals": {
+      "ht1_neg_logprob": 0.01633625339878642,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.02304466669337626,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 207,
+    "signals": {
+      "ht1_neg_logprob": 0.005475439236941913,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.007674361692368076,
+      "cost_token_len": 0.232421875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.275390625
+    }
+  },
+  {
+    "task_id": 208,
+    "signals": {
+      "ht1_neg_logprob": 0.0795551985502243,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.012459427730641681,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 209,
+    "signals": {
+      "ht1_neg_logprob": 0.05543398135341704,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.05402447178053813,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 210,
+    "signals": {
+      "ht1_neg_logprob": 0.018325991543202566,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.020862594590886203,
+      "cost_token_len": 0.236328125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 211,
+    "signals": {
+      "ht1_neg_logprob": 0.013511337404107225,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.015812489208374823,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 212,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 213,
+    "signals": {
+      "ht1_neg_logprob": 0.00625513362533906,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.006599817089431984,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 214,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 215,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1171875
+    }
+  },
+  {
+    "task_id": 216,
+    "signals": {
+      "ht1_neg_logprob": 0.022064554691314697,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.016891694524929335,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.146484375
+    }
+  },
+  {
+    "task_id": 217,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 218,
+    "signals": {
+      "ht1_neg_logprob": 0.012075856757851748,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.015648088991741166,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1015625
+    }
+  },
+  {
+    "task_id": 219,
+    "signals": {
+      "ht1_neg_logprob": 0.06696760113681516,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.006884181176093576,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 220,
+    "signals": {
+      "ht1_neg_logprob": 0.008630353380256976,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.009495327727889932,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.138671875
+    }
+  },
+  {
+    "task_id": 221,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 222,
+    "signals": {
+      "ht1_neg_logprob": 0.009462665617465973,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.010899211504807837,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09765625
+    }
+  },
+  {
+    "task_id": 223,
+    "signals": {
+      "ht1_neg_logprob": 0.026136035099625587,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.02462911195456847,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.234375
+    }
+  },
+  {
+    "task_id": 224,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 225,
+    "signals": {
+      "ht1_neg_logprob": 0.02423798314162663,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.013240957931368418,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 226,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 227,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 228,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.234375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 229,
+    "signals": {
+      "ht1_neg_logprob": 0.0007357923097388689,
+      "ht2_neg_min_margin": -3.4375,
+      "ht3_logprob_var": 0.0007475569145785132,
+      "cost_token_len": 0.216796875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 230,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 231,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.130859375
+    }
+  },
+  {
+    "task_id": 232,
+    "signals": {
+      "ht1_neg_logprob": 0.012596452236175537,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.014325239843009504,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 233,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 234,
+    "signals": {
+      "ht1_neg_logprob": 0.02099408706029256,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.023875399738349175,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 235,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 236,
+    "signals": {
+      "ht1_neg_logprob": 0.11521882581156354,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.01780888928041148,
+      "cost_token_len": 0.216796875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 237,
+    "signals": {
+      "ht1_neg_logprob": 0.06485193078311122,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.012347250233000723,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 238,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 239,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.25,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.193359375
+    }
+  },
+  {
+    "task_id": 240,
+    "signals": {
+      "ht1_neg_logprob": 0.03147867888212204,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.037358524635980966,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 241,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.06640625
+    }
+  },
+  {
+    "task_id": 242,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 243,
+    "signals": {
+      "ht1_neg_logprob": 0.0326409637928009,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.03961345982060922,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.125
+    }
+  },
+  {
+    "task_id": 244,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 245,
+    "signals": {
+      "ht1_neg_logprob": 0.003355664504661086,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.004373869043325689,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.353515625
+    }
+  },
+  {
+    "task_id": 246,
+    "signals": {
+      "ht1_neg_logprob": 0.0017722878605127335,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0018699481753390622,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1171875
+    }
+  },
+  {
+    "task_id": 247,
+    "signals": {
+      "ht1_neg_logprob": 0.00809839550784962,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.008995910207503736,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.326171875
+    }
+  },
+  {
+    "task_id": 248,
+    "signals": {
+      "ht1_neg_logprob": 0.010326818563044071,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.012237675833649968,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 249,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 250,
+    "signals": {
+      "ht1_neg_logprob": 0.026306942105293274,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.0293239830282522,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.029296875
+    }
+  },
+  {
+    "task_id": 251,
+    "signals": {
+      "ht1_neg_logprob": 0.019348596372912006,
+      "ht2_neg_min_margin": -0.6250000596046448,
+      "ht3_logprob_var": 0.017266496664997546,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 252,
+    "signals": {
+      "ht1_neg_logprob": 0.008564616973493613,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.009878480729355741,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.099609375
+    }
+  },
+  {
+    "task_id": 253,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 254,
+    "signals": {
+      "ht1_neg_logprob": 0.01893292418841658,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.025228125136091097,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 255,
+    "signals": {
+      "ht1_neg_logprob": 0.001715308055281639,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0017663137616267042,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.06640625
+    }
+  },
+  {
+    "task_id": 256,
+    "signals": {
+      "ht1_neg_logprob": 0.004669325829473967,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.005153756838341144,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.189453125
+    }
+  },
+  {
+    "task_id": 257,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.177734375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 258,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 259,
+    "signals": {
+      "ht1_neg_logprob": 0.01369477982322375,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.012191507043161631,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 260,
+    "signals": {
+      "ht1_neg_logprob": 0.024570817628235958,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.025814216677642308,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.26171875
+    }
+  },
+  {
+    "task_id": 261,
+    "signals": {
+      "ht1_neg_logprob": 0.013275860995054244,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.014631122623975595,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09765625
+    }
+  },
+  {
+    "task_id": 262,
+    "signals": {
+      "ht1_neg_logprob": 0.01057217601272795,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.011645077063949879,
+      "cost_token_len": 0.212890625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 263,
+    "signals": {
+      "ht1_neg_logprob": 0.0030342211517003868,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.0031571153316884153,
+      "cost_token_len": 0.177734375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 264,
+    "signals": {
+      "ht1_neg_logprob": 0.0009560733422881268,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0009845027523820975,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 265,
+    "signals": {
+      "ht1_neg_logprob": 0.0035858977247368207,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.003731136301086309,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 266,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 267,
+    "signals": {
+      "ht1_neg_logprob": 0.05179065671460382,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.009879475753799659,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 268,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 269,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.021484375
+    }
+  },
+  {
+    "task_id": 270,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1015625
+    }
+  },
+  {
+    "task_id": 271,
+    "signals": {
+      "ht1_neg_logprob": 0.017157962545752525,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.022862988404582556,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 272,
+    "signals": {
+      "ht1_neg_logprob": 0.02592553488082356,
+      "ht2_neg_min_margin": -0.9375000596046448,
+      "ht3_logprob_var": 0.026316144553288012,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 273,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 274,
+    "signals": {
+      "ht1_neg_logprob": 0.006174234052499135,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.006476062971474752,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 275,
+    "signals": {
+      "ht1_neg_logprob": 0.06312574719039488,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.012208012012842726,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.138671875
+    }
+  },
+  {
+    "task_id": 276,
+    "signals": {
+      "ht1_neg_logprob": 0.00827387687952622,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.009113538571786862,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 277,
+    "signals": {
+      "ht1_neg_logprob": 0.06170769532521566,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.048737615060357106,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 278,
+    "signals": {
+      "ht1_neg_logprob": 0.040515434065902675,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.02191251710219905,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.10546875
+    }
+  },
+  {
+    "task_id": 279,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 280,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 281,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 282,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 283,
+    "signals": {
+      "ht1_neg_logprob": 0.040156399128866975,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.029982767652226662,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 284,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 285,
+    "signals": {
+      "ht1_neg_logprob": 0.11141016781330108,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.086859014974817,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 286,
+    "signals": {
+      "ht1_neg_logprob": 0.022883289997224453,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.013260530568382738,
+      "cost_token_len": 0.228515625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.263671875
+    }
+  },
+  {
+    "task_id": 287,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 288,
+    "signals": {
+      "ht1_neg_logprob": 0.012768716313118158,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.017014316952247484,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 289,
+    "signals": {
+      "ht1_neg_logprob": 0.050756906304094525,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.053806082740245426,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.087890625
+    }
+  },
+  {
+    "task_id": 290,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0859375
+    }
+  },
+  {
+    "task_id": 291,
+    "signals": {
+      "ht1_neg_logprob": 0.0007810866331109907,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.0008127227586524633,
+      "cost_token_len": 0.24609375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.197265625
+    }
+  },
+  {
+    "task_id": 292,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1796875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 293,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 294,
+    "signals": {
+      "ht1_neg_logprob": 0.009667024693705818,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.010199717320031249,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.021484375
+    }
+  },
+  {
+    "task_id": 295,
+    "signals": {
+      "ht1_neg_logprob": 0.005998310588655018,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.006821542782385478,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08203125
+    }
+  },
+  {
+    "task_id": 296,
+    "signals": {
+      "ht1_neg_logprob": 0.009306013584136963,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.012400264897400709,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.115234375
+    }
+  },
+  {
+    "task_id": 297,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.087890625
+    }
+  },
+  {
+    "task_id": 298,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.12109375
+    }
+  },
+  {
+    "task_id": 299,
+    "signals": {
+      "ht1_neg_logprob": 0.020414316938036962,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.02548863945328525,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 300,
+    "signals": {
+      "ht1_neg_logprob": 0.0010800087755476987,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0011121234795427397,
+      "cost_token_len": 0.228515625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.10546875
+    }
+  },
+  {
+    "task_id": 301,
+    "signals": {
+      "ht1_neg_logprob": 0.03392071701412977,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.041499835752247576,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 302,
+    "signals": {
+      "ht1_neg_logprob": 0.037292887182796705,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.011517812549317618,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.06640625
+    }
+  },
+  {
+    "task_id": 303,
+    "signals": {
+      "ht1_neg_logprob": 0.054071217600721866,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.02639759120720416,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.25
+    }
+  },
+  {
+    "task_id": 304,
+    "signals": {
+      "ht1_neg_logprob": 0.2085247956789457,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.08871961142796869,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 305,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 306,
+    "signals": {
+      "ht1_neg_logprob": 0.010683135602806435,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.013813167903612492,
+      "cost_token_len": 0.25,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.23828125
+    }
+  },
+  {
+    "task_id": 307,
+    "signals": {
+      "ht1_neg_logprob": 0.11668822111991736,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.12118678064720209,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 308,
+    "signals": {
+      "ht1_neg_logprob": 0.0028389266467299954,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0029698544554422703,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 309,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 310,
+    "signals": {
+      "ht1_neg_logprob": 0.10728064605167933,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.020464628347156434,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 311,
+    "signals": {
+      "ht1_neg_logprob": 0.030881477296352388,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.04328339994495595,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 312,
+    "signals": {
+      "ht1_neg_logprob": 0.0027203362049727604,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.002830517193927545,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 313,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 314,
+    "signals": {
+      "ht1_neg_logprob": 0.021052719346543614,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.009107861263818701,
+      "cost_token_len": 0.23046875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.251953125
+    }
+  },
+  {
+    "task_id": 315,
+    "signals": {
+      "ht1_neg_logprob": 0.002338935850096531,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.002514015550222835,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.119140625
+    }
+  },
+  {
+    "task_id": 316,
+    "signals": {
+      "ht1_neg_logprob": 0.007519994558084129,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.008949022019832466,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.197265625
+    }
+  },
+  {
+    "task_id": 317,
+    "signals": {
+      "ht1_neg_logprob": 0.012033692926545686,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.010681171132493488,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.154296875
+    }
+  },
+  {
+    "task_id": 318,
+    "signals": {
+      "ht1_neg_logprob": 0.00995026511095819,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.013730416054328488,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 319,
+    "signals": {
+      "ht1_neg_logprob": 0.003938417467806075,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.004155440389642361,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 320,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.212890625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.123046875
+    }
+  },
+  {
+    "task_id": 321,
+    "signals": {
+      "ht1_neg_logprob": 0.05911586433649063,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.02353067540244349,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.078125
+    }
+  },
+  {
+    "task_id": 322,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.076171875
+    }
+  },
+  {
+    "task_id": 323,
+    "signals": {
+      "ht1_neg_logprob": 0.0005951068763222013,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0006128027336255912,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.19140625
+    }
+  },
+  {
+    "task_id": 324,
+    "signals": {
+      "ht1_neg_logprob": 0.04115548923611641,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.03433559157335578,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09765625
+    }
+  },
+  {
+    "task_id": 325,
+    "signals": {
+      "ht1_neg_logprob": 0.0006627326577224515,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0006824394079012266,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.171875
+    }
+  },
+  {
+    "task_id": 326,
+    "signals": {
+      "ht1_neg_logprob": 0.009001911460579215,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.012987012987012988,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.150390625
+    }
+  },
+  {
+    "task_id": 327,
+    "signals": {
+      "ht1_neg_logprob": 0.004089895062721693,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.004315265020013221,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 328,
+    "signals": {
+      "ht1_neg_logprob": 0.05608682047862273,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.023123731301072956,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 329,
+    "signals": {
+      "ht1_neg_logprob": 0.009061865153766814,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.009981494626242753,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 330,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 331,
+    "signals": {
+      "ht1_neg_logprob": 0.05409915248552958,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.05225825921047441,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08203125
+    }
+  },
+  {
+    "task_id": 332,
+    "signals": {
+      "ht1_neg_logprob": 0.005725660107352517,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.006511472655913411,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0859375
+    }
+  },
+  {
+    "task_id": 333,
+    "signals": {
+      "ht1_neg_logprob": 0.005907626201709111,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.006233160584463541,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 334,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.080078125
+    }
+  },
+  {
+    "task_id": 335,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 336,
+    "signals": {
+      "ht1_neg_logprob": 0.016488486757645242,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.020586978019961163,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 337,
+    "signals": {
+      "ht1_neg_logprob": 0.16463565035608776,
+      "ht2_neg_min_margin": -0.15625,
+      "ht3_logprob_var": 0.07385754209468316,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.111328125
+    }
+  },
+  {
+    "task_id": 338,
+    "signals": {
+      "ht1_neg_logprob": 0.002418221811116752,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.0025992364163320834,
+      "cost_token_len": 0.224609375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.115234375
+    }
+  },
+  {
+    "task_id": 339,
+    "signals": {
+      "ht1_neg_logprob": 0.0387150163428401,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.013166981677310056,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.20703125
+    }
+  },
+  {
+    "task_id": 340,
+    "signals": {
+      "ht1_neg_logprob": 0.01487878177847181,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.017177628966511337,
+      "cost_token_len": 0.21484375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 341,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 342,
+    "signals": {
+      "ht1_neg_logprob": 0.019029432697555956,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.01602720694863963,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.76171875
+    }
+  },
+  {
+    "task_id": 343,
+    "signals": {
+      "ht1_neg_logprob": 0.015315720766055875,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.019846356770013188,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.080078125
+    }
+  },
+  {
+    "task_id": 344,
+    "signals": {
+      "ht1_neg_logprob": 0.03213998565779013,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.008404793399596017,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.099609375
+    }
+  },
+  {
+    "task_id": 345,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 346,
+    "signals": {
+      "ht1_neg_logprob": 0.03445402995655031,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.020736209022486195,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.12890625
+    }
+  },
+  {
+    "task_id": 347,
+    "signals": {
+      "ht1_neg_logprob": 0.02184583626265796,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.015771130857225257,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.20703125
+    }
+  },
+  {
+    "task_id": 348,
+    "signals": {
+      "ht1_neg_logprob": 0.0339522311561986,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.01896138609642558,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.185546875
+    }
+  },
+  {
+    "task_id": 349,
+    "signals": {
+      "ht1_neg_logprob": 0.013259423406500565,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.015079199834746848,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 350,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.125
+    }
+  },
+  {
+    "task_id": 351,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.126953125
+    }
+  },
+  {
+    "task_id": 352,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 353,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 354,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 355,
+    "signals": {
+      "ht1_neg_logprob": 0.04093475947304377,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.0013029364860936317,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.123046875
+    }
+  },
+  {
+    "task_id": 356,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 357,
+    "signals": {
+      "ht1_neg_logprob": 0.08819264024496079,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.05513052095293246,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.029296875
+    }
+  },
+  {
+    "task_id": 358,
+    "signals": {
+      "ht1_neg_logprob": 0.011586504208075034,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.014466525095107846,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 359,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.212890625
+    }
+  },
+  {
+    "task_id": 360,
+    "signals": {
+      "ht1_neg_logprob": 0.016903420343347218,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.019637404111830736,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 361,
+    "signals": {
+      "ht1_neg_logprob": 0.05853892697228326,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.02973674602883279,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 362,
+    "signals": {
+      "ht1_neg_logprob": 0.018133746253119573,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.011413419796933062,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.140625
+    }
+  },
+  {
+    "task_id": 363,
+    "signals": {
+      "ht1_neg_logprob": 0.1304918419231068,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0027297576316049066,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 364,
+    "signals": {
+      "ht1_neg_logprob": 0.00414758083201194,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.005019056736739024,
+      "cost_token_len": 0.224609375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.251953125
+    }
+  },
+  {
+    "task_id": 365,
+    "signals": {
+      "ht1_neg_logprob": 0.04568281553685665,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.015833405936838997,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09765625
+    }
+  },
+  {
+    "task_id": 366,
+    "signals": {
+      "ht1_neg_logprob": 0.010770661004802637,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.012799005573039174,
+      "cost_token_len": 0.2109375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.111328125
+    }
+  },
+  {
+    "task_id": 367,
+    "signals": {
+      "ht1_neg_logprob": 0.012939603999257088,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.018037662801527517,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1875
+    }
+  },
+  {
+    "task_id": 368,
+    "signals": {
+      "ht1_neg_logprob": 0.20803847483226232,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.12498114676810526,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 369,
+    "signals": {
+      "ht1_neg_logprob": 0.005487503340611091,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.0058982672524458815,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 370,
+    "signals": {
+      "ht1_neg_logprob": 0.0848083949901841,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.07348119120258528,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 371,
+    "signals": {
+      "ht1_neg_logprob": 0.004426136252380187,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.004585150532877637,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 372,
+    "signals": {
+      "ht1_neg_logprob": 0.023584988340735434,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.028959918107119887,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 373,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 374,
+    "signals": {
+      "ht1_neg_logprob": 0.014830522496124795,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.014561805258225657,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.169921875
+    }
+  },
+  {
+    "task_id": 375,
+    "signals": {
+      "ht1_neg_logprob": 0.013853425488752477,
+      "ht2_neg_min_margin": -1.875,
+      "ht3_logprob_var": 0.009020880402642852,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 376,
+    "signals": {
+      "ht1_neg_logprob": 0.0381515072806487,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.03179317202562731,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.123046875
+    }
+  },
+  {
+    "task_id": 377,
+    "signals": {
+      "ht1_neg_logprob": 0.022030546267827352,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.026107041778453265,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.029296875
+    }
+  },
+  {
+    "task_id": 378,
+    "signals": {
+      "ht1_neg_logprob": 0.04052694944234995,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.020586978019961163,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 379,
+    "signals": {
+      "ht1_neg_logprob": 0.0345675740391016,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.0301361614095352,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 380,
+    "signals": {
+      "ht1_neg_logprob": 0.04390419522921244,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.022302559521624594,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 381,
+    "signals": {
+      "ht1_neg_logprob": 0.02551231705225431,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.028139062651793913,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 382,
+    "signals": {
+      "ht1_neg_logprob": 0.013170726816443837,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.013014273198679921,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1328125
+    }
+  },
+  {
+    "task_id": 383,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 384,
+    "signals": {
+      "ht1_neg_logprob": 0.03698750456365255,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.023758041271995857,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1015625
+    }
+  },
+  {
+    "task_id": 385,
+    "signals": {
+      "ht1_neg_logprob": 0.00237470540480736,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0024907934505672123,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.15234375
+    }
+  },
+  {
+    "task_id": 386,
+    "signals": {
+      "ht1_neg_logprob": 0.02017768886937222,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.007941650494259869,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.138671875
+    }
+  },
+  {
+    "task_id": 387,
+    "signals": {
+      "ht1_neg_logprob": 0.012284117026461495,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.013781005111424664,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0703125
+    }
+  },
+  {
+    "task_id": 388,
+    "signals": {
+      "ht1_neg_logprob": 0.011631259289772614,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.014075180848681175,
+      "cost_token_len": 0.21875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 389,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.140625
+    }
+  },
+  {
+    "task_id": 390,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 391,
+    "signals": {
+      "ht1_neg_logprob": 0.01438434488243527,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.01670891659839588,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.17578125
+    }
+  },
+  {
+    "task_id": 392,
+    "signals": {
+      "ht1_neg_logprob": 0.008603227214287903,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.010463498765133713,
+      "cost_token_len": 0.255859375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.115234375
+    }
+  },
+  {
+    "task_id": 393,
+    "signals": {
+      "ht1_neg_logprob": 0.003756654759248098,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.003908809458280895,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 394,
+    "signals": {
+      "ht1_neg_logprob": 0.09576277434825897,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.0633438528732816,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 395,
+    "signals": {
+      "ht1_neg_logprob": 0.009632540376562821,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.012835361911344594,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.111328125
+    }
+  },
+  {
+    "task_id": 396,
+    "signals": {
+      "ht1_neg_logprob": 0.02635459148803273,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.03215909129329704,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 397,
+    "signals": {
+      "ht1_neg_logprob": 0.01139511013853139,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.013503642299199965,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 398,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 399,
+    "signals": {
+      "ht1_neg_logprob": 0.08077885148425896,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.005741718613855056,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 400,
+    "signals": {
+      "ht1_neg_logprob": 0.03955160081386566,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.026646924935864274,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 401,
+    "signals": {
+      "ht1_neg_logprob": 0.04226112753456952,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.01214930809008772,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 402,
+    "signals": {
+      "ht1_neg_logprob": 0.002298328618053347,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.001814892393054372,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.25
+    }
+  },
+  {
+    "task_id": 403,
+    "signals": {
+      "ht1_neg_logprob": 0.05437597317685341,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.031785013564492016,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 404,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 405,
+    "signals": {
+      "ht1_neg_logprob": 0.005907626201709111,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.006233160584463541,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 406,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 407,
+    "signals": {
+      "ht1_neg_logprob": 0.004006073706679874,
+      "ht2_neg_min_margin": -0.78125,
+      "ht3_logprob_var": 0.004239197794181614,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.2109375
+    }
+  },
+  {
+    "task_id": 408,
+    "signals": {
+      "ht1_neg_logprob": 0.0019405328541128467,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.0022147107601494013,
+      "cost_token_len": 0.220703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.470703125
+    }
+  },
+  {
+    "task_id": 409,
+    "signals": {
+      "ht1_neg_logprob": 0.032629458233714104,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.018333965686127326,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 410,
+    "signals": {
+      "ht1_neg_logprob": 0.04480427952141178,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.05040368817099875,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 411,
+    "signals": {
+      "ht1_neg_logprob": 0.024497180325644356,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.0305863673439423,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 412,
+    "signals": {
+      "ht1_neg_logprob": 0.004623359636120174,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.004878125674797553,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 413,
+    "signals": {
+      "ht1_neg_logprob": 0.0517693438074168,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.0554403111032422,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.06640625
+    }
+  },
+  {
+    "task_id": 414,
+    "signals": {
+      "ht1_neg_logprob": 0.004860039489964644,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.005004555657942329,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 415,
+    "signals": {
+      "ht1_neg_logprob": 0.004289490636438131,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.005715747101145639,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.25
+    }
+  },
+  {
+    "task_id": 416,
+    "signals": {
+      "ht1_neg_logprob": 0.005043537125867956,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.006297193276694003,
+      "cost_token_len": 0.21875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.166015625
+    }
+  },
+  {
+    "task_id": 417,
+    "signals": {
+      "ht1_neg_logprob": 0.006235060264479439,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.007388785408996208,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.103515625
+    }
+  },
+  {
+    "task_id": 418,
+    "signals": {
+      "ht1_neg_logprob": 0.004674315365941026,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.0049630143362535085,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 419,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.216796875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.064453125
+    }
+  },
+  {
+    "task_id": 420,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 421,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.037109375
+    }
+  },
+  {
+    "task_id": 422,
+    "signals": {
+      "ht1_neg_logprob": 0.053115125858422485,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.006351860216699934,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.064453125
+    }
+  },
+  {
+    "task_id": 423,
+    "signals": {
+      "ht1_neg_logprob": 0.023407171418269476,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.009532544507894147,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.234375
+    }
+  },
+  {
+    "task_id": 424,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 425,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.072265625
+    }
+  },
+  {
+    "task_id": 426,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 427,
+    "signals": {
+      "ht1_neg_logprob": 0.006868383714130947,
+      "ht2_neg_min_margin": -0.6249999403953552,
+      "ht3_logprob_var": 0.007646592291757978,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 428,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.173828125
+    }
+  },
+  {
+    "task_id": 429,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 430,
+    "signals": {
+      "ht1_neg_logprob": 0.014559848854939142,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.016793417239904757,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 431,
+    "signals": {
+      "ht1_neg_logprob": 0.13789362233618033,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.04883570676623655,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 432,
+    "signals": {
+      "ht1_neg_logprob": 0.03633450639658961,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.018457290638585873,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 433,
+    "signals": {
+      "ht1_neg_logprob": 0.020335363017188177,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.027096875146171918,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 434,
+    "signals": {
+      "ht1_neg_logprob": 0.014555463736707514,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.012070538140178938,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 435,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 436,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 437,
+    "signals": {
+      "ht1_neg_logprob": 0.02541986107826233,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.030123509744369153,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 438,
+    "signals": {
+      "ht1_neg_logprob": 0.027813500828213163,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.005305644386299817,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.10546875
+    }
+  },
+  {
+    "task_id": 439,
+    "signals": {
+      "ht1_neg_logprob": 0.02381670309437646,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.02973674602883279,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03515625
+    }
+  },
+  {
+    "task_id": 440,
+    "signals": {
+      "ht1_neg_logprob": 0.2093097709239008,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.07325129252939283,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.486328125
+    }
+  },
+  {
+    "task_id": 441,
+    "signals": {
+      "ht1_neg_logprob": 0.020653637126088142,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.024475351667299937,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.03125
+    }
+  },
+  {
+    "task_id": 442,
+    "signals": {
+      "ht1_neg_logprob": 0.004076431053025382,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.004381569958959798,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 443,
+    "signals": {
+      "ht1_neg_logprob": 0.01792700801576887,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.017419419736824805,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08203125
+    }
+  },
+  {
+    "task_id": 444,
+    "signals": {
+      "ht1_neg_logprob": 0.018513269899856476,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.021507633074862236,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 445,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 446,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.060546875
+    }
+  },
+  {
+    "task_id": 447,
+    "signals": {
+      "ht1_neg_logprob": 0.009514958411455155,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.01048056935755489,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 448,
+    "signals": {
+      "ht1_neg_logprob": 0.029540619916386075,
+      "ht2_neg_min_margin": -0.9375000596046448,
+      "ht3_logprob_var": 0.007760058868492042,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.228515625
+    }
+  },
+  {
+    "task_id": 449,
+    "signals": {
+      "ht1_neg_logprob": 0.008277090680268075,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.01118617528584449,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.2109375
+    }
+  },
+  {
+    "task_id": 450,
+    "signals": {
+      "ht1_neg_logprob": 0.002650930630889806,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0027297576316049066,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 451,
+    "signals": {
+      "ht1_neg_logprob": 0.003155589997768402,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.003283399944955952,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 452,
+    "signals": {
+      "ht1_neg_logprob": 0.005944795285662015,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.006389789523483038,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 453,
+    "signals": {
+      "ht1_neg_logprob": 0.008361398869631241,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.009197444777714035,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 454,
+    "signals": {
+      "ht1_neg_logprob": 0.014290021856625874,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.017842047617299676,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 455,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09375
+    }
+  },
+  {
+    "task_id": 456,
+    "signals": {
+      "ht1_neg_logprob": 0.0261454667363848,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.03483883947364961,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 457,
+    "signals": {
+      "ht1_neg_logprob": 0.0019885539684606633,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.002059995166945025,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.134765625
+    }
+  },
+  {
+    "task_id": 458,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 459,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 460,
+    "signals": {
+      "ht1_neg_logprob": 0.04077336367438821,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.058823529411764705,
+      "cost_token_len": 0.18359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.033203125
+    }
+  },
+  {
+    "task_id": 461,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.064453125
+    }
+  },
+  {
+    "task_id": 462,
+    "signals": {
+      "ht1_neg_logprob": 0.03265006517005317,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.024408341550636942,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1328125
+    }
+  },
+  {
+    "task_id": 463,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.17578125
+    }
+  },
+  {
+    "task_id": 464,
+    "signals": {
+      "ht1_neg_logprob": 0.03284994912583653,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.011553429885382873,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.080078125
+    }
+  },
+  {
+    "task_id": 465,
+    "signals": {
+      "ht1_neg_logprob": 0.007385494560003281,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.007847998239583058,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05859375
+    }
+  },
+  {
+    "task_id": 466,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 467,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.11328125
+    }
+  },
+  {
+    "task_id": 468,
+    "signals": {
+      "ht1_neg_logprob": 0.015821387966473897,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.008231285695238521,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.146484375
+    }
+  },
+  {
+    "task_id": 469,
+    "signals": {
+      "ht1_neg_logprob": 0.011020387522876263,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.011431494202291278,
+      "cost_token_len": 0.1953125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.25
+    }
+  },
+  {
+    "task_id": 470,
+    "signals": {
+      "ht1_neg_logprob": 0.006387138674999106,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.0066993754877325016,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.056640625
+    }
+  },
+  {
+    "task_id": 471,
+    "signals": {
+      "ht1_neg_logprob": 0.005437119092260088,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.005988896775745651,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.068359375
+    }
+  },
+  {
+    "task_id": 472,
+    "signals": {
+      "ht1_neg_logprob": 0.05577363679974766,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.02168351588754044,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.115234375
+    }
+  },
+  {
+    "task_id": 473,
+    "signals": {
+      "ht1_neg_logprob": 0.026394047075882554,
+      "ht2_neg_min_margin": -0.3125000596046448,
+      "ht3_logprob_var": 0.02843083014488837,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.09375
+    }
+  },
+  {
+    "task_id": 474,
+    "signals": {
+      "ht1_neg_logprob": 0.008649962192231958,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.0095277903250499,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 475,
+    "signals": {
+      "ht1_neg_logprob": 0.002430019744982322,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0025022778289711645,
+      "cost_token_len": 0.1796875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 476,
+    "signals": {
+      "ht1_neg_logprob": 0.07011196613311768,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.008384455486043912,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 477,
+    "signals": {
+      "ht1_neg_logprob": 0.02541986107826233,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.030123509744369153,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.025390625
+    }
+  },
+  {
+    "task_id": 478,
+    "signals": {
+      "ht1_neg_logprob": 0.003756654759248098,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.003908809458280895,
+      "cost_token_len": 0.1875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 479,
+    "signals": {
+      "ht1_neg_logprob": 0.003938417467806075,
+      "ht2_neg_min_margin": -2.1875,
+      "ht3_logprob_var": 0.004155440389642361,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.052734375
+    }
+  },
+  {
+    "task_id": 480,
+    "signals": {
+      "ht1_neg_logprob": 0.029440883659955227,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.006351860216699934,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.12890625
+    }
+  },
+  {
+    "task_id": 481,
+    "signals": {
+      "ht1_neg_logprob": 0.010794877148835005,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.01000280810909005,
+      "cost_token_len": 0.208984375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.220703125
+    }
+  },
+  {
+    "task_id": 482,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.205078125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.046875
+    }
+  },
+  {
+    "task_id": 483,
+    "signals": {
+      "ht1_neg_logprob": 0.00679224666701742,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.007772939125919328,
+      "cost_token_len": 0.21875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.162109375
+    }
+  },
+  {
+    "task_id": 484,
+    "signals": {
+      "ht1_neg_logprob": 0.04625690673909536,
+      "ht2_neg_min_margin": -1.25,
+      "ht3_logprob_var": 0.01771620834838959,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.080078125
+    }
+  },
+  {
+    "task_id": 485,
+    "signals": {
+      "ht1_neg_logprob": 0.022906536641328232,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.011636118011282398,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08984375
+    }
+  },
+  {
+    "task_id": 486,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08203125
+    }
+  },
+  {
+    "task_id": 487,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.201171875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.041015625
+    }
+  },
+  {
+    "task_id": 488,
+    "signals": {
+      "ht1_neg_logprob": 0.006906101169685523,
+      "ht2_neg_min_margin": -1.5625,
+      "ht3_logprob_var": 0.007490723751289048,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0703125
+    }
+  },
+  {
+    "task_id": 489,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0625
+    }
+  },
+  {
+    "task_id": 490,
+    "signals": {
+      "ht1_neg_logprob": 0.056446420614208494,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.025554597164475914,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.13671875
+    }
+  },
+  {
+    "task_id": 491,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.083984375
+    }
+  },
+  {
+    "task_id": 492,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  },
+  {
+    "task_id": 493,
+    "signals": {
+      "ht1_neg_logprob": 0.0299890239642361,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.024444754495487615,
+      "cost_token_len": 0.22265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.248046875
+    }
+  },
+  {
+    "task_id": 494,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.189453125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 495,
+    "signals": {
+      "ht1_neg_logprob": 0.01436774756597436,
+      "ht2_neg_min_margin": -0.9375,
+      "ht3_logprob_var": 0.017026331594643434,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.044921875
+    }
+  },
+  {
+    "task_id": 496,
+    "signals": {
+      "ht1_neg_logprob": 0.014267508685588837,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.01533549485635929,
+      "cost_token_len": 0.20703125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0390625
+    }
+  },
+  {
+    "task_id": 497,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.095703125
+    }
+  },
+  {
+    "task_id": 498,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.181640625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.048828125
+    }
+  },
+  {
+    "task_id": 499,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 500,
+    "signals": {
+      "ht1_neg_logprob": 0.010191077632563455,
+      "ht2_neg_min_margin": -1.8750001192092896,
+      "ht3_logprob_var": 0.010953924897399494,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.02734375
+    }
+  },
+  {
+    "task_id": 501,
+    "signals": {
+      "ht1_neg_logprob": 0.006909473375840621,
+      "ht2_neg_min_margin": -2.5,
+      "ht3_logprob_var": 0.003731136301086309,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.04296875
+    }
+  },
+  {
+    "task_id": 502,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.1796875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0234375
+    }
+  },
+  {
+    "task_id": 503,
+    "signals": {
+      "ht1_neg_logprob": 0.023233815318062193,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.017419419736824805,
+      "cost_token_len": 0.193359375,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.08203125
+    }
+  },
+  {
+    "task_id": 504,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.05078125
+    }
+  },
+  {
+    "task_id": 505,
+    "signals": {
+      "ht1_neg_logprob": 0.019385821496446926,
+      "ht2_neg_min_margin": -0.625,
+      "ht3_logprob_var": 0.022971050397055194,
+      "cost_token_len": 0.19140625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0703125
+    }
+  },
+  {
+    "task_id": 506,
+    "signals": {
+      "ht1_neg_logprob": -0.0,
+      "ht2_neg_min_margin": -Infinity,
+      "ht3_logprob_var": 0.0,
+      "cost_token_len": 0.197265625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0859375
+    }
+  },
+  {
+    "task_id": 507,
+    "signals": {
+      "ht1_neg_logprob": 0.0020828740671277046,
+      "ht2_neg_min_margin": -2.8125,
+      "ht3_logprob_var": 0.0021448095676895695,
+      "cost_token_len": 0.185546875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.0546875
+    }
+  },
+  {
+    "task_id": 508,
+    "signals": {
+      "ht1_neg_logprob": 0.022675099545249752,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.029868351486050815,
+      "cost_token_len": 0.203125,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.099609375
+    }
+  },
+  {
+    "task_id": 509,
+    "signals": {
+      "ht1_neg_logprob": 0.014734659928317163,
+      "ht2_neg_min_margin": -0.0,
+      "ht3_logprob_var": 0.020785385645006038,
+      "cost_token_len": 0.19921875,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.099609375
+    }
+  },
+  {
+    "task_id": 510,
+    "signals": {
+      "ht1_neg_logprob": 0.010625101182432402,
+      "ht2_neg_min_margin": -0.3125,
+      "ht3_logprob_var": 0.013012827480731425,
+      "cost_token_len": 0.212890625,
+      "cost_test_count": 0.3,
+      "cost_output_len": 0.1640625
+    }
+  }
+]

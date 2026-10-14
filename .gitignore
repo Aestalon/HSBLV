@@ -1,0 +1,47 @@
+# Credentials and machine-specific settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.agents/
+.claude/
+.codex/
+.vscode/
+.idea/
+
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+outputs/
+*.log
+
+# Manuscript sources, documents, and compiled paper assets
+*.tex
+*.bib
+*.sty
+*.cls
+*.bst
+*.aux
+*.bbl
+*.blg
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+*.docx
+*.pptx
+*.zip
+
+# Large model/dataset caches
+*.safetensors
+*.pt
+*.pth
+*.bin
+.cache/
+.DS_Store
+Thumbs.db
