@@ -1,6 +1,6 @@
 # HSBLV
 
-Experiment code and recorded results for **Heteroskedastic Signals in Budgeted LLM Verification: Structural Heterogeneity Limits Optimization Gains**.
+Experiment code and recorded results for **[Heteroskedastic Signals in Budgeted LLM Verification: Structural Heterogeneity Limits Optimization Gains](https://arxiv.org/abs/2606.15841)**.
 
 This repository studies budgeted error auditing with heterogeneous uncertainty signals and verification-cost proxies. It includes global threshold policies, cost-stratified thresholding (CST), heterogeneity-gated allocation (HGA), optimization baselines, and exploratory routing/COMET analyses. Manuscript sources and paper PDFs are intentionally excluded.
 
@@ -76,3 +76,19 @@ MBPP evaluation executes generated Python code and uses POSIX signal-based timeo
 Hit rate measures precision among audited items, rather than total errors found. Evaluation also records error coverage and budget use. Costs are normalized token-length proxies; they are not measured wall-clock verification costs. HGA is a calibration-based analysis, with a larger calibration prefix than the initial score fit; see the protocol notes before comparing methods.
 
 Code is provided under the MIT license. Included data are derived numerical traces and evaluation labels, not a redistribution of the original benchmark problem sets or model weights. Benchmark and model licenses continue to apply to their respective original materials. No conference acceptance or publication status is asserted by this repository.
+
+## Citation
+
+If you use this code or the experimental results, please cite:
+
+```bibtex
+@misc{yang2026HSBLV,
+  title={Heteroskedastic Signals in Budgeted LLM Verification: Structural Heterogeneity Limits Optimization Gains},
+  author={Jinlong Yang},
+  year={2026},
+  eprint={2606.15841},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2606.15841},
+}
+```
